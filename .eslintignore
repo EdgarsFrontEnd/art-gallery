@@ -1,0 +1,4 @@
+.eslintrc.js
+index.html
+vite.config.ts
+tailwind.config.js
